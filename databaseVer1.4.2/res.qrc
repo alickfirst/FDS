@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ims.webp</file>
+        <file>ims (1).png</file>
+        <file>background2.webp</file>
+    </qresource>
+</RCC>
